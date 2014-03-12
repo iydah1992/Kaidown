@@ -11,21 +11,24 @@ body {
 	list-style: none;
 }
 .left-layout {
-	width: 300px;
+	width: 230px;
 	border: 1px solid #FFF;
 	margin: 0px 15px;
 	min-height: 1000px;
 	background: #fff;
 	border-radius: 5px;
 	padding-top: 100px;
+	margin-left: 40px;
+	float: left;
 }
 .body-layout {
-	border: 1px solid #fff;
-	width: 900px;
-	min-height: 1000px;
-	background: #fff;
-	border-radius: 5px;
-	padding: 15px;
+border: 1px solid #fff;
+min-height: 1000px;
+background: #fff;
+border-radius: 5px;
+padding: 15px;
+width: 900px;
+margin-left: 280px;
 }
 .report-from {
 	border: 1px solid #ccc;
