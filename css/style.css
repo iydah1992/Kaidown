@@ -1,0 +1,36 @@
+body{
+background:url('../images/bg/bg.png');
+}
+
+
+#main-center{
+	 
+}
+
+
+.layout li{
+	float: left;
+	list-style: none;
+}
+.left-layout{
+width: 300px;
+border: 1px solid #FFF;
+margin: 0px 15px;
+min-height: 1000px;
+background: #fff;
+border-radius: 5px;
+
+	
+}
+.body-layout{
+	border: 1px solid #fff;
+	width: 900px;
+	min-height: 1000px;
+	background: #fff;
+border-radius: 5px;
+}
+.report-from{
+	border: 1px solid #ccc;
+	width: 600px;
+	margin: auto;
+}
